@@ -1,0 +1,4410 @@
+{
+  "images": [
+    {
+      "id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "file_name": "beauty.0001.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "file_name": "beauty.0002.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "86625629-d3eb-4f2b-8fe2-68d44279977c",
+      "file_name": "beauty.0003.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "file_name": "beauty.0004.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "file_name": "beauty.0005.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "file_name": "beauty.0006.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "file_name": "beauty.0007.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "file_name": "beauty.0008.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "fa608f46-65b5-428f-8d19-f94b20839bdf",
+      "file_name": "beauty.0009.png",
+      "height": 960,
+      "width": 1280
+    },
+    {
+      "id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "file_name": "beauty.0010.png",
+      "height": 960,
+      "width": 1280
+    }
+  ],
+  "instances": [
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.dumpster.wheeled_dumpster",
+      "area": 458,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "wheeled_dumpster",
+      "asset": "wheeled_dumpster_1",
+      "bbox": [
+        1135,
+        286,
+        1166,
+        308
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "construction_element.barrier.concrete_barrier",
+      "area": 243,
+      "superclass": "construction_element",
+      "class": "barrier",
+      "subclass": "concrete_barrier",
+      "asset": "concrete_barrier_2",
+      "bbox": [
+        1248,
+        161,
+        1279,
+        172
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "construction_element.reel.wooden_reel",
+      "area": 72,
+      "superclass": "construction_element",
+      "class": "reel",
+      "subclass": "wooden_reel",
+      "asset": "standing_wooden_cable_reel_1",
+      "bbox": [
+        1193,
+        169,
+        1207,
+        178
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.shed_north_america.mid",
+      "area": 7541,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        465,
+        650,
+        596,
+        785
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 5005,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 0.993844320889595,
+      "bbox": [
+        587,
+        432,
+        694,
+        529
+      ],
+      "truncation": false,
+      "occlusion": false
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 547,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster1",
+      "bbox": [
+        1221,
+        100,
+        1253,
+        130
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 1964,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.6054254007398274,
+      "bbox": [
+        416,
+        300,
+        496,
+        361
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 3076,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.9657770800627944,
+      "bbox": [
+        719,
+        223,
+        801,
+        296
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.house_north_america.small",
+      "area": 27094,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        338,
+        741,
+        501,
+        932
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.house_north_america.small",
+      "area": 3220,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        1058,
+        0,
+        1185,
+        44
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.cistern.metallic_cistern",
+      "area": 685,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_11",
+      "bbox": [
+        1179,
+        48,
+        1206,
+        94
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 1048,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        955,
+        249,
+        1003,
+        298
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.barrel.metallic_barrel",
+      "area": 99,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "metallic_barrel",
+      "asset": "metallic_barrel1",
+      "bbox": [
+        1219,
+        616,
+        1233,
+        628
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 230,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster1",
+      "bbox": [
+        1020,
+        131,
+        1034,
+        157
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 1995,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "brdm2_1",
+      "visibility_percentage": 0.9428166351606805,
+      "bbox": [
+        901,
+        256,
+        969,
+        318
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 78,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        1042,
+        313,
+        1054,
+        326
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.barrel.plastic_barrel",
+      "area": 70,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        996,
+        304,
+        1007,
+        316
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 1605,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        1206,
+        557,
+        1266,
+        621
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 132,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1134_1",
+      "visibility_percentage": 0.050555342780543855,
+      "bbox": [
+        728,
+        12,
+        791,
+        41
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.barrel.plastic_barrel",
+      "area": 56,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        1210,
+        598,
+        1220,
+        607
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 17547,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        858,
+        655,
+        976,
+        825
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 1691,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "closed_dumpster_1",
+      "bbox": [
+        1240,
+        169,
+        1279,
+        224
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "container.barrel.plastic_barrel",
+      "area": 66,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel1",
+      "bbox": [
+        1002,
+        240,
+        1013,
+        251
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 2660,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr82_1",
+      "visibility_percentage": 0.5859030837004405,
+      "bbox": [
+        497,
+        510,
+        595,
+        606
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "industrial.storage_facility.cistern",
+      "area": 2092,
+      "superclass": "industrial",
+      "class": "storage_facility",
+      "subclass": "cistern",
+      "asset": "industrial_cistern1",
+      "bbox": [
+        1224,
+        619,
+        1279,
+        681
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 17321,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        960,
+        658,
+        1084,
+        827
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.industrial.warehouse",
+      "area": 16650,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        713,
+        681,
+        859,
+        804
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.industrial.warehouse",
+      "area": 22263,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        528,
+        552,
+        733,
+        760
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.house_north_america.small",
+      "area": 2343,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        780,
+        0,
+        894,
+        29
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.industrial.warehouse_small",
+      "area": 24183,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_1",
+      "bbox": [
+        792,
+        58,
+        1038,
+        262
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.shed_north_america.mid",
+      "area": 4305,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        430,
+        703,
+        550,
+        828
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.shed_north_america.mid",
+      "area": 2059,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        1242,
+        520,
+        1279,
+        594
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 41,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        1194,
+        575,
+        1203,
+        582
+      ]
+    },
+    {
+      "image_id": "85a1fddf-a051-4da0-b2c8-00988d90b2d3",
+      "path": "building.house_north_america.medium",
+      "area": 24385,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        1085,
+        670,
+        1279,
+        811
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.house_north_america.small",
+      "area": 1411,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        866,
+        0,
+        975,
+        26
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.shed_north_america.mid",
+      "area": 11754,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        528,
+        586,
+        689,
+        746
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 6466,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 0.9754110725599638,
+      "bbox": [
+        714,
+        408,
+        839,
+        510
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 2884,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.9255455712451861,
+      "bbox": [
+        547,
+        280,
+        627,
+        350
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 3202,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.941764705882353,
+      "bbox": [
+        878,
+        283,
+        969,
+        345
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.house_north_america.small",
+      "area": 1714,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        1166,
+        4,
+        1268,
+        75
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.shed_north_america.mid",
+      "area": 444,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        976,
+        0,
+        1018,
+        17
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.house_north_america.small",
+      "area": 49363,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        286,
+        636,
+        562,
+        904
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.industrial.warehouse",
+      "area": 413,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1166,
+        0,
+        1237,
+        9
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.house_north_america.small",
+      "area": 3126,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        1219,
+        134,
+        1279,
+        218
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 1075,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        1145,
+        336,
+        1204,
+        382
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 88,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "brdm2_1",
+      "visibility_percentage": 0.03501790688420215,
+      "bbox": [
+        1156,
+        362,
+        1165,
+        372
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 33,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        1255,
+        398,
+        1265,
+        407
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "container.barrel.plastic_barrel",
+      "area": 110,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        1198,
+        379,
+        1210,
+        395
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 681,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1134_1",
+      "visibility_percentage": 0.30052956751985876,
+      "bbox": [
+        887,
+        157,
+        954,
+        202
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.industrial.warehouse_small",
+      "area": 2242,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_5",
+      "bbox": [
+        167,
+        0,
+        305,
+        51
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 38741,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        1054,
+        631,
+        1255,
+        892
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.house_north_america.small",
+      "area": 4307,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        1190,
+        84,
+        1279,
+        154
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "container.barrel.plastic_barrel",
+      "area": 81,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel1",
+      "bbox": [
+        1198,
+        334,
+        1210,
+        346
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 4396,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr82_1",
+      "visibility_percentage": 0.7379553466509988,
+      "bbox": [
+        597,
+        464,
+        703,
+        548
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 10899,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        1207,
+        653,
+        1279,
+        900
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.industrial.warehouse",
+      "area": 35674,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        847,
+        632,
+        1068,
+        838
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.shed_north_america.mid",
+      "area": 58,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        521,
+        955,
+        540,
+        959
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.industrial.warehouse",
+      "area": 4997,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        912,
+        6,
+        1016,
+        69
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.industrial.warehouse",
+      "area": 37720,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        616,
+        496,
+        885,
+        727
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.house_north_america.small",
+      "area": 4246,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        943,
+        98,
+        1062,
+        187
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.industrial.warehouse_small",
+      "area": 19012,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_1",
+      "bbox": [
+        960,
+        182,
+        1226,
+        339
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.shed_north_america.mid",
+      "area": 6503,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        486,
+        630,
+        619,
+        786
+      ]
+    },
+    {
+      "image_id": "ae7afffe-5e39-46b0-86de-2d3c5af1bf5a",
+      "path": "building.house_north_america.medium",
+      "area": 531,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        536,
+        0,
+        605,
+        12
+      ]
+    },
+    {
+      "image_id": "86625629-d3eb-4f2b-8fe2-68d44279977c",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 11538,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 0.9796230259806419,
+      "bbox": [
+        1185,
+        661,
+        1279,
+        823
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "86625629-d3eb-4f2b-8fe2-68d44279977c",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 17657,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.5785197077422103,
+      "bbox": [
+        499,
+        390,
+        772,
+        578
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "86625629-d3eb-4f2b-8fe2-68d44279977c",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 10659,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.90684022460439,
+      "bbox": [
+        1156,
+        0,
+        1279,
+        122
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.barrel.plastic_barrel",
+      "area": 66,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel1",
+      "bbox": [
+        1025,
+        753,
+        1036,
+        764
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.dumpster.wheeled_dumpster",
+      "area": 230,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "wheeled_dumpster",
+      "asset": "wheeled_dumpster_1",
+      "bbox": [
+        785,
+        444,
+        806,
+        463
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.dumpster.wheeled_dumpster",
+      "area": 359,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "wheeled_dumpster",
+      "asset": "wheeled_dumpster_1",
+      "bbox": [
+        1028,
+        750,
+        1055,
+        777
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "construction_element.barrier.concrete_barrier",
+      "area": 110,
+      "superclass": "construction_element",
+      "class": "barrier",
+      "subclass": "concrete_barrier",
+      "asset": "concrete_barrier_2",
+      "bbox": [
+        838,
+        346,
+        863,
+        357
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.small",
+      "area": 4559,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        356,
+        79,
+        457,
+        143
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.residential.standalone_garage",
+      "area": 549,
+      "superclass": "building",
+      "class": "residential",
+      "subclass": "standalone_garage",
+      "asset": "garage_single_2",
+      "bbox": [
+        1130,
+        225,
+        1179,
+        256
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "construction_element.reel.wooden_reel",
+      "area": 40,
+      "superclass": "construction_element",
+      "class": "reel",
+      "subclass": "wooden_reel",
+      "asset": "standing_wooden_cable_reel_1",
+      "bbox": [
+        803,
+        363,
+        812,
+        371
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.shed_north_america.mid",
+      "area": 737,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        858,
+        115,
+        908,
+        156
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.shed_north_america.mid",
+      "area": 5223,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        345,
+        822,
+        460,
+        917
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 3185,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 0.9906687402799378,
+      "bbox": [
+        405,
+        638,
+        495,
+        702
+      ],
+      "truncation": false,
+      "occlusion": false
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.cistern.metallic_cistern",
+      "area": 745,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_11",
+      "bbox": [
+        1068,
+        263,
+        1107,
+        314
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 314,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster1",
+      "bbox": [
+        810,
+        311,
+        833,
+        334
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 4244,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_20x3",
+      "bbox": [
+        930,
+        209,
+        1083,
+        305
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 1623,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.776555023923445,
+      "bbox": [
+        242,
+        567,
+        315,
+        615
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 1740,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.96398891966759,
+      "bbox": [
+        472,
+        469,
+        541,
+        514
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.small",
+      "area": 3143,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        589,
+        62,
+        680,
+        131
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.shed_north_america.mid",
+      "area": 1017,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        451,
+        78,
+        495,
+        112
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.small",
+      "area": 6389,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        266,
+        891,
+        392,
+        959
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.residential.standalone_garage",
+      "area": 674,
+      "superclass": "building",
+      "class": "residential",
+      "subclass": "standalone_garage",
+      "asset": "garage_single_2",
+      "bbox": [
+        264,
+        0,
+        295,
+        30
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 2376,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        588,
+        14,
+        651,
+        70
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.small",
+      "area": 4647,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        664,
+        216,
+        767,
+        299
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "construction_element.barrier.concrete_barrier",
+      "area": 21,
+      "superclass": "construction_element",
+      "class": "barrier",
+      "subclass": "concrete_barrier",
+      "asset": "concrete_barrier_2",
+      "bbox": [
+        977,
+        699,
+        983,
+        707
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 8017,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        975,
+        603,
+        1084,
+        730
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.cistern.metallic_cistern",
+      "area": 156,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_11",
+      "bbox": [
+        772,
+        286,
+        787,
+        300
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 530,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        652,
+        449,
+        690,
+        483
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 2704,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1167,
+        86,
+        1264,
+        139
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.barrel.metallic_barrel",
+      "area": 53,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "metallic_barrel",
+      "asset": "metallic_barrel1",
+      "bbox": [
+        903,
+        654,
+        911,
+        665
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 150,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster1",
+      "bbox": [
+        669,
+        361,
+        690,
+        381
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 1057,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "brdm2_1",
+      "visibility_percentage": 0.9403914590747331,
+      "bbox": [
+        613,
+        463,
+        668,
+        501
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.medium",
+      "area": 547,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_cladding_4",
+      "bbox": [
+        1214,
+        0,
+        1252,
+        21
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 38,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        725,
+        480,
+        731,
+        490
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 1467,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        926,
+        63,
+        1001,
+        121
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.barrel.plastic_barrel",
+      "area": 38,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        691,
+        481,
+        697,
+        491
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 1874,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1164,
+        199,
+        1250,
+        265
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 8988,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1072,
+        645,
+        1190,
+        771
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 776,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        883,
+        615,
+        930,
+        656
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 1726,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        777,
+        22,
+        859,
+        72
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.barrel.plastic_barrel",
+      "area": 51,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel1",
+      "bbox": [
+        950,
+        630,
+        959,
+        640
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.barrel.plastic_barrel",
+      "area": 27,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        892,
+        644,
+        899,
+        651
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 10308,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        653,
+        727,
+        759,
+        876
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "construction_element.pipe.concrete_pipe",
+      "area": 49,
+      "superclass": "construction_element",
+      "class": "pipe",
+      "subclass": "concrete_pipe",
+      "asset": "concrete_pipe_1",
+      "bbox": [
+        981,
+        705,
+        990,
+        715
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 840,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "closed_dumpster_1",
+      "bbox": [
+        836,
+        352,
+        873,
+        391
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.small",
+      "area": 4393,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        637,
+        161,
+        734,
+        237
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.barrel.plastic_barrel",
+      "area": 35,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel1",
+      "bbox": [
+        683,
+        438,
+        690,
+        446
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 2012,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr82_1",
+      "visibility_percentage": 0.6660046342270771,
+      "bbox": [
+        343,
+        716,
+        432,
+        776
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "industrial.storage_facility.cistern",
+      "area": 878,
+      "superclass": "industrial",
+      "class": "storage_facility",
+      "subclass": "cistern",
+      "asset": "industrial_cistern1",
+      "bbox": [
+        908,
+        650,
+        961,
+        685
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 1739,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1075,
+        24,
+        1163,
+        89
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 10218,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        723,
+        710,
+        836,
+        856
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 10934,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        542,
+        768,
+        670,
+        893
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 1813,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1086,
+        926,
+        1194,
+        959
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 3875,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        412,
+        120,
+        500,
+        193
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 15209,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        389,
+        716,
+        551,
+        881
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.residential.standalone_garage",
+      "area": 222,
+      "superclass": "building",
+      "class": "residential",
+      "subclass": "standalone_garage",
+      "asset": "garage_single_2",
+      "bbox": [
+        141,
+        124,
+        162,
+        149
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 1040,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        1041,
+        727,
+        1084,
+        778
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.medium",
+      "area": 2205,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        1038,
+        0,
+        1145,
+        37
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse",
+      "area": 754,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        300,
+        0,
+        362,
+        15
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.small",
+      "area": 6411,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        458,
+        234,
+        563,
+        326
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.industrial.warehouse_small",
+      "area": 12521,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_1",
+      "bbox": [
+        506,
+        329,
+        693,
+        476
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.shed_north_america.mid",
+      "area": 2834,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        327,
+        870,
+        430,
+        959
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.medium",
+      "area": 7078,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        320,
+        9,
+        442,
+        92
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.shed_north_america.mid",
+      "area": 2465,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        902,
+        576,
+        967,
+        635
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "container.cistern.metallic_cistern",
+      "area": 386,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_7",
+      "bbox": [
+        1244,
+        124,
+        1275,
+        145
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 54,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        1009,
+        741,
+        1019,
+        751
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.small",
+      "area": 2661,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        1225,
+        140,
+        1279,
+        214
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.shed_north_america.mid",
+      "area": 881,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        1009,
+        592,
+        1084,
+        630
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.medium",
+      "area": 9936,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        35,
+        111,
+        177,
+        228
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 22,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        876,
+        631,
+        882,
+        638
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.shed_north_america.mid",
+      "area": 8452,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        1111,
+        839,
+        1225,
+        959
+      ]
+    },
+    {
+      "image_id": "a51aac47-3888-4b55-aa88-473b642744ea",
+      "path": "building.house_north_america.medium",
+      "area": 15481,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        820,
+        678,
+        1002,
+        817
+      ]
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "building.shed_north_america.mid",
+      "area": 6954,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        121,
+        270,
+        268,
+        334
+      ]
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 7861,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 1.0,
+      "bbox": [
+        250,
+        509,
+        395,
+        590
+      ],
+      "truncation": false,
+      "occlusion": false
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 5643,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.9822454308093995,
+      "bbox": [
+        578,
+        450,
+        704,
+        519
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 7216,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.9769834822637422,
+      "bbox": [
+        415,
+        875,
+        552,
+        950
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "building.house_north_america.small",
+      "area": 22320,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        56,
+        69,
+        283,
+        257
+      ]
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 5545,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr82_1",
+      "visibility_percentage": 0.8916224473388005,
+      "bbox": [
+        258,
+        376,
+        388,
+        445
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "building.industrial.warehouse",
+      "area": 8179,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        0,
+        405,
+        75,
+        585
+      ]
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "building.shed_north_america.mid",
+      "area": 8016,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        0,
+        41,
+        78,
+        186
+      ]
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "building.industrial.warehouse",
+      "area": 30047,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        73,
+        320,
+        253,
+        515
+      ]
+    },
+    {
+      "image_id": "154a890f-13d4-487f-bdd8-4647906f71c5",
+      "path": "building.shed_north_america.mid",
+      "area": 5349,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        122,
+        216,
+        250,
+        285
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "container.dumpster.wheeled_dumpster",
+      "area": 782,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "wheeled_dumpster",
+      "asset": "wheeled_dumpster_1",
+      "bbox": [
+        916,
+        777,
+        954,
+        814
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "construction_element.barrier.concrete_barrier",
+      "area": 489,
+      "superclass": "construction_element",
+      "class": "barrier",
+      "subclass": "concrete_barrier",
+      "asset": "concrete_barrier_2",
+      "bbox": [
+        1237,
+        800,
+        1276,
+        834
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.house_north_america.small",
+      "area": 8434,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        1102,
+        122,
+        1272,
+        214
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "construction_element.reel.wooden_reel",
+      "area": 128,
+      "superclass": "construction_element",
+      "class": "reel",
+      "subclass": "wooden_reel",
+      "asset": "standing_wooden_cable_reel_1",
+      "bbox": [
+        1148,
+        751,
+        1169,
+        771
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.shed_north_america.mid",
+      "area": 3899,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        1,
+        523,
+        102,
+        634
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 4281,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 0.9932714617169374,
+      "bbox": [
+        295,
+        474,
+        365,
+        563
+      ],
+      "truncation": false,
+      "occlusion": false
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 465,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster1",
+      "bbox": [
+        1258,
+        728,
+        1279,
+        769
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 2172,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.9995398067188219,
+      "bbox": [
+        363,
+        317,
+        411,
+        383
+      ],
+      "truncation": false,
+      "occlusion": false
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 1838,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.7165692007797271,
+      "bbox": [
+        605,
+        441,
+        649,
+        513
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.shed_north_america.mid",
+      "area": 707,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        1257,
+        176,
+        1279,
+        223
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.house_north_america.small",
+      "area": 293,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        0,
+        535,
+        13,
+        572
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.residential.standalone_garage",
+      "area": 1127,
+      "superclass": "building",
+      "class": "residential",
+      "subclass": "standalone_garage",
+      "asset": "garage_single_2",
+      "bbox": [
+        1185,
+        12,
+        1240,
+        48
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.house_north_america.small",
+      "area": 7380,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        1177,
+        461,
+        1279,
+        632
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "container.cistern.metallic_cistern",
+      "area": 2305,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_11",
+      "bbox": [
+        1222,
+        647,
+        1279,
+        729
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 1323,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        770,
+        607,
+        817,
+        664
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 330,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster1",
+      "bbox": [
+        966,
+        560,
+        1003,
+        596
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 2251,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "brdm2_1",
+      "visibility_percentage": 0.9995559502664298,
+      "bbox": [
+        716,
+        572,
+        758,
+        645
+      ],
+      "truncation": false,
+      "occlusion": false
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 113,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        804,
+        717,
+        815,
+        733
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "container.barrel.plastic_barrel",
+      "area": 101,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        773,
+        672,
+        783,
+        687
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 1946,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1134_1",
+      "visibility_percentage": 0.9567354965585054,
+      "bbox": [
+        835,
+        330,
+        875,
+        390
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.industrial.warehouse_small",
+      "area": 4207,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_5",
+      "bbox": [
+        425,
+        0,
+        571,
+        55
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 20683,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        66,
+        747,
+        290,
+        938
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.industrial.warehouse",
+      "area": 16,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        421,
+        0,
+        426,
+        5
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 3935,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "closed_dumpster_1",
+      "bbox": [
+        1165,
+        797,
+        1253,
+        882
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.house_north_america.small",
+      "area": 157,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        1270,
+        445,
+        1279,
+        473
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 2926,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr82_1",
+      "visibility_percentage": 0.7732558139534884,
+      "bbox": [
+        181,
+        463,
+        251,
+        537
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 19350,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        109,
+        829,
+        359,
+        959
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.industrial.warehouse",
+      "area": 16411,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        35,
+        655,
+        208,
+        829
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.industrial.warehouse",
+      "area": 5355,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1092,
+        181,
+        1220,
+        284
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.industrial.warehouse",
+      "area": 23711,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        36,
+        525,
+        254,
+        683
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.residential.standalone_garage",
+      "area": 1231,
+      "superclass": "building",
+      "class": "residential",
+      "subclass": "standalone_garage",
+      "asset": "garage_single_2",
+      "bbox": [
+        874,
+        28,
+        933,
+        76
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.industrial.warehouse",
+      "area": 1247,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1243,
+        5,
+        1279,
+        63
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.house_north_america.small",
+      "area": 13851,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        896,
+        289,
+        1089,
+        421
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.industrial.warehouse_small",
+      "area": 32356,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_1",
+      "bbox": [
+        720,
+        398,
+        980,
+        630
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.shed_north_america.mid",
+      "area": 2513,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        0,
+        528,
+        53,
+        629
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.house_north_america.medium",
+      "area": 9038,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        1151,
+        40,
+        1279,
+        170
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "construction_element.reel.wooden_reel",
+      "area": 34,
+      "superclass": "construction_element",
+      "class": "reel",
+      "subclass": "wooden_reel",
+      "asset": "lying_wooden_cable_reel_1",
+      "bbox": [
+        985,
+        705,
+        989,
+        709
+      ]
+    },
+    {
+      "image_id": "ed55fae5-2d8e-47e9-bc11-d513eac57090",
+      "path": "building.house_north_america.medium",
+      "area": 9648,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        757,
+        0,
+        911,
+        93
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.shed_north_america.mid",
+      "area": 9470,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        748,
+        131,
+        891,
+        286
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 8862,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 1.0,
+      "bbox": [
+        572,
+        405,
+        707,
+        553
+      ],
+      "truncation": false,
+      "occlusion": false
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 6974,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.815672514619883,
+      "bbox": [
+        818,
+        703,
+        942,
+        842
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 8731,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.9757487706750112,
+      "bbox": [
+        324,
+        764,
+        436,
+        911
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.house_north_america.small",
+      "area": 29670,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        857,
+        0,
+        1041,
+        204
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 3058,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        23,
+        723,
+        76,
+        815
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 5437,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "brdm2_1",
+      "visibility_percentage": 0.9657193605683837,
+      "bbox": [
+        84,
+        693,
+        170,
+        810
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "container.barrel.plastic_barrel",
+      "area": 154,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        32,
+        698,
+        51,
+        710
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 23961,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        301,
+        15,
+        460,
+        228
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 6596,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr82_1",
+      "visibility_percentage": 0.8396130346232179,
+      "bbox": [
+        718,
+        328,
+        840,
+        459
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 18436,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        185,
+        0,
+        341,
+        204
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.industrial.warehouse",
+      "area": 22745,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        437,
+        55,
+        620,
+        216
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.industrial.warehouse",
+      "area": 33890,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        567,
+        126,
+        817,
+        375
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.industrial.warehouse_small",
+      "area": 15544,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_1",
+      "bbox": [
+        0,
+        818,
+        218,
+        959
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.shed_north_america.mid",
+      "area": 6760,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        803,
+        95,
+        936,
+        236
+      ]
+    },
+    {
+      "image_id": "c0320ca1-eb43-4870-9aaa-d7a2579d620a",
+      "path": "building.house_north_america.medium",
+      "area": 29547,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        0,
+        0,
+        207,
+        170
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.dumpster.wheeled_dumpster",
+      "area": 163,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "wheeled_dumpster",
+      "asset": "wheeled_dumpster_1",
+      "bbox": [
+        497,
+        208,
+        510,
+        228
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "construction_element.barrier.concrete_barrier",
+      "area": 103,
+      "superclass": "construction_element",
+      "class": "barrier",
+      "subclass": "concrete_barrier",
+      "asset": "concrete_barrier_2",
+      "bbox": [
+        392,
+        153,
+        404,
+        172
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.residential.standalone_garage",
+      "area": 584,
+      "superclass": "building",
+      "class": "residential",
+      "subclass": "standalone_garage",
+      "asset": "garage_single_2",
+      "bbox": [
+        408,
+        6,
+        450,
+        29
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "construction_element.reel.wooden_reel",
+      "area": 74,
+      "superclass": "construction_element",
+      "class": "reel",
+      "subclass": "wooden_reel",
+      "asset": "standing_wooden_cable_reel_1",
+      "bbox": [
+        388,
+        180,
+        400,
+        192
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 177,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        113,
+        41,
+        122,
+        86
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 7018,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        832,
+        530,
+        972,
+        634
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 5069,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 0.9701435406698564,
+      "bbox": [
+        582,
+        442,
+        696,
+        528
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.cistern.metallic_cistern",
+      "area": 141,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_11",
+      "bbox": [
+        473,
+        43,
+        490,
+        57
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 26,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster1",
+      "bbox": [
+        332,
+        154,
+        336,
+        159
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 926,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_20x3",
+      "bbox": [
+        296,
+        28,
+        421,
+        99
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 4994,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.9771081980043045,
+      "bbox": [
+        337,
+        566,
+        458,
+        646
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 3062,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.9151225343693963,
+      "bbox": [
+        343,
+        359,
+        439,
+        413
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.house_north_america.small",
+      "area": 28635,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        944,
+        581,
+        1174,
+        746
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.house_north_america.small",
+      "area": 6952,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        96,
+        142,
+        240,
+        216
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 4940,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        770,
+        144,
+        883,
+        218
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 2020,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        920,
+        0,
+        997,
+        48
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.cistern.metallic_cistern",
+      "area": 1232,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_11",
+      "bbox": [
+        274,
+        152,
+        337,
+        185
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 412,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        440,
+        276,
+        477,
+        295
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.barrel.metallic_barrel",
+      "area": 57,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "metallic_barrel",
+      "asset": "metallic_barrel1",
+      "bbox": [
+        773,
+        237,
+        781,
+        249
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.house_north_america.medium",
+      "area": 5606,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_cladding_2",
+      "bbox": [
+        1183,
+        36,
+        1279,
+        166
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 1300,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "brdm2_1",
+      "visibility_percentage": 0.8079552517091361,
+      "bbox": [
+        424,
+        288,
+        493,
+        328
+      ],
+      "truncation": false,
+      "occlusion": true
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 61,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        502,
+        260,
+        509,
+        273
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 482,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        103,
+        0,
+        140,
+        38
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.barrel.plastic_barrel",
+      "area": 56,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        485,
+        278,
+        493,
+        291
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 225,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1225,
+        0,
+        1277,
+        8
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 140,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        424,
+        0,
+        452,
+        9
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 437,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_20x3",
+      "bbox": [
+        1262,
+        543,
+        1279,
+        594
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 4193,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        833,
+        125,
+        946,
+        194
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 4379,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        1083,
+        277,
+        1206,
+        334
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 543,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        730,
+        223,
+        778,
+        243
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 2773,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1134_1",
+      "visibility_percentage": 0.8134350249339982,
+      "bbox": [
+        46,
+        323,
+        144,
+        383
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.barrel.plastic_barrel",
+      "area": 55,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel1",
+      "bbox": [
+        762,
+        211,
+        770,
+        222
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.cistern.metallic_cistern",
+      "area": 486,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_7",
+      "bbox": [
+        1241,
+        16,
+        1279,
+        33
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.barrel.plastic_barrel",
+      "area": 21,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        760,
+        239,
+        767,
+        245
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 8388,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        825,
+        309,
+        967,
+        401
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 493,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "closed_dumpster_1",
+      "bbox": [
+        407,
+        151,
+        434,
+        179
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.house_north_america.small",
+      "area": 7001,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        0,
+        126,
+        131,
+        204
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 4187,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr82_1",
+      "visibility_percentage": 0.8825885328836425,
+      "bbox": [
+        667,
+        520,
+        779,
+        599
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "industrial.storage_facility.cistern",
+      "area": 1267,
+      "superclass": "industrial",
+      "class": "storage_facility",
+      "subclass": "cistern",
+      "asset": "industrial_cistern1",
+      "bbox": [
+        780,
+        213,
+        835,
+        248
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 4805,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_30x9",
+      "bbox": [
+        824,
+        270,
+        958,
+        347
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 9682,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        852,
+        364,
+        964,
+        486
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 7703,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        1073,
+        194,
+        1210,
+        291
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 8098,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        1146,
+        376,
+        1279,
+        459
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.small",
+      "area": 2639,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "small",
+      "asset": "shed_modern_small1",
+      "bbox": [
+        1214,
+        316,
+        1279,
+        386
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 10918,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        1163,
+        572,
+        1279,
+        712
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 20092,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        735,
+        414,
+        942,
+        586
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 2049,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_16x7",
+      "bbox": [
+        1112,
+        0,
+        1182,
+        37
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 2853,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        1092,
+        143,
+        1179,
+        198
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.small",
+      "area": 18,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "small",
+      "asset": "shed_modern_small1",
+      "bbox": [
+        1276,
+        7,
+        1279,
+        17
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.house_north_america.small",
+      "area": 9808,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        0,
+        255,
+        129,
+        346
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse_small",
+      "area": 8170,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_1",
+      "bbox": [
+        219,
+        223,
+        413,
+        360
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 3421,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        894,
+        563,
+        1012,
+        667
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.industrial.warehouse",
+      "area": 3065,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse",
+      "asset": "MET_warehouse1",
+      "bbox": [
+        997,
+        94,
+        1082,
+        170
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 1092,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        711,
+        193,
+        758,
+        228
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.house_north_america.medium",
+      "area": 809,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        1028,
+        0,
+        1117,
+        38
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 550,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        748,
+        163,
+        773,
+        196
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 15,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        742,
+        242,
+        746,
+        246
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 3835,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        996,
+        178,
+        1084,
+        244
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.shed_north_america.mid",
+      "area": 6712,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_modern_mid1",
+      "bbox": [
+        1099,
+        316,
+        1232,
+        383
+      ]
+    },
+    {
+      "image_id": "0551c10d-98f1-4b5d-bda3-d7cb61448f29",
+      "path": "building.house_north_america.medium",
+      "area": 8529,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "medium",
+      "asset": "two_story_1",
+      "bbox": [
+        826,
+        181,
+        940,
+        278
+      ]
+    },
+    {
+      "image_id": "fa608f46-65b5-428f-8d19-f94b20839bdf",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 13805,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "eitan_1",
+      "visibility_percentage": 0.9986978224697968,
+      "bbox": [
+        677,
+        770,
+        788,
+        959
+      ],
+      "truncation": false,
+      "occlusion": false
+    },
+    {
+      "image_id": "fa608f46-65b5-428f-8d19-f94b20839bdf",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 3636,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr60_1v1819_1",
+      "visibility_percentage": 0.504789670970429,
+      "bbox": [
+        614,
+        432,
+        680,
+        552
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "fa608f46-65b5-428f-8d19-f94b20839bdf",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 9506,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.9746744591407772,
+      "bbox": [
+        1079,
+        578,
+        1185,
+        724
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "fa608f46-65b5-428f-8d19-f94b20839bdf",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 7830,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "btr82_1",
+      "visibility_percentage": 0.6989199321610283,
+      "bbox": [
+        481,
+        793,
+        566,
+        959
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "container.dumpster.wheeled_dumpster",
+      "area": 786,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "wheeled_dumpster",
+      "asset": "wheeled_dumpster_1",
+      "bbox": [
+        748,
+        232,
+        779,
+        278
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "construction_element.barrier.concrete_barrier",
+      "area": 370,
+      "superclass": "construction_element",
+      "class": "barrier",
+      "subclass": "concrete_barrier",
+      "asset": "concrete_barrier_2",
+      "bbox": [
+        549,
+        107,
+        574,
+        140
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "construction_element.reel.wooden_reel",
+      "area": 291,
+      "superclass": "construction_element",
+      "class": "reel",
+      "subclass": "wooden_reel",
+      "asset": "standing_wooden_cable_reel_1",
+      "bbox": [
+        534,
+        155,
+        557,
+        176
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "building.placeholder.placeholder_north_america",
+      "area": 43,
+      "superclass": "building",
+      "class": "placeholder",
+      "subclass": "placeholder_north_america",
+      "asset": "placeholder_20x3",
+      "bbox": [
+        534,
+        0,
+        538,
+        2
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 41980,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "m1130_stryker_1",
+      "visibility_percentage": 0.9589729532163743,
+      "bbox": [
+        221,
+        702,
+        551,
+        915
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "building.house_north_america.small",
+      "area": 23169,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        0,
+        34,
+        281,
+        195
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "container.cistern.metallic_cistern",
+      "area": 3730,
+      "superclass": "container",
+      "class": "cistern",
+      "subclass": "metallic_cistern",
+      "asset": "cistern_11",
+      "bbox": [
+        326,
+        84,
+        445,
+        154
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 4262,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "industrial_dumpster2",
+      "bbox": [
+        570,
+        395,
+        695,
+        450
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "vehicle.military_vehicle.wheeled_armored",
+      "area": 8931,
+      "superclass": "vehicle",
+      "class": "military_vehicle",
+      "subclass": "wheeled_armored",
+      "asset": "brdm2_1",
+      "visibility_percentage": 0.7617057569296375,
+      "bbox": [
+        566,
+        439,
+        734,
+        543
+      ],
+      "truncation": true,
+      "occlusion": false
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "sign.traffic.traffic_barrel",
+      "area": 328,
+      "superclass": "sign",
+      "class": "traffic",
+      "subclass": "traffic_barrel",
+      "asset": "traffic_barrel_1",
+      "bbox": [
+        757,
+        359,
+        773,
+        387
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "container.barrel.plastic_barrel",
+      "area": 326,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel2",
+      "bbox": [
+        716,
+        405,
+        734,
+        435
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "container.dumpster.metallic_dumpster",
+      "area": 1737,
+      "superclass": "container",
+      "class": "dumpster",
+      "subclass": "metallic_dumpster",
+      "asset": "closed_dumpster_1",
+      "bbox": [
+        577,
+        101,
+        634,
+        152
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "building.house_north_america.small",
+      "area": 2989,
+      "superclass": "building",
+      "class": "house_north_america",
+      "subclass": "small",
+      "asset": "one_story_1",
+      "bbox": [
+        0,
+        26,
+        77,
+        93
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "container.barrel.plastic_barrel",
+      "area": 266,
+      "superclass": "container",
+      "class": "barrel",
+      "subclass": "plastic_barrel",
+      "asset": "plastic_barrel1",
+      "bbox": [
+        566,
+        356,
+        584,
+        377
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "building.industrial.warehouse_small",
+      "area": 63375,
+      "superclass": "building",
+      "class": "industrial",
+      "subclass": "warehouse_small",
+      "asset": "warehouse_small_1",
+      "bbox": [
+        0,
+        245,
+        540,
+        609
+      ]
+    },
+    {
+      "image_id": "47514f26-f974-4287-aac3-b55f078ef82f",
+      "path": "building.shed_north_america.mid",
+      "area": 4371,
+      "superclass": "building",
+      "class": "shed_north_america",
+      "subclass": "mid",
+      "asset": "shed_garden_wood1",
+      "bbox": [
+        1221,
+        236,
+        1279,
+        326
+      ]
+    }
+  ],
+  "scene_info": {
+    "terrain": "gis_gardanne",
+    "lighting": {
+      "time_of_day": 1138.0474239587784,
+      "dawn_time": 600,
+      "sun_light_intensity": 5,
+      "sun_radius": 1,
+      "moon_light_intensity": 0.12,
+      "sky_light_intensity": 1.944004094025303,
+      "cloud_coverage": 1.4013336598873138,
+      "bottom_cloud_altitude_in_km": 0.9499557375907898,
+      "cloud_layer_scale": 0.5441908001899719,
+      "fog": 0,
+      "mist": 0.29584337472915645,
+      "sun_angle": 92.26599454879761,
+      "moon_angle": 294.5524477958679
+    }
+  }
+}

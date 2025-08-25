@@ -1,7 +1,18 @@
 path: output
 train: images
 val: images
-nc: 2
 names:
-  - "dog"
-  - "cat"
+  0: house_north_america
+  1: military_vehicle
+  2: industrial
+  3: cistern
+  4: shed_north_america
+  5: traffic
+  6: reel
+  7: barrel
+  8: dumpster
+  9: residential
+  10: placeholder
+  11: barrier
+  12: storage_facility
+  13: pipe

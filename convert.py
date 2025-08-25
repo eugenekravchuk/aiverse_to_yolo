@@ -13,7 +13,6 @@ Output:
       <image files copied here>
     labels/
       <same basenames>.txt (YOLO format: class_id x_center y_center w h)
-    classes.txt (one class label per line, id = line index)
     data.yaml   (Ultralytics dataset config; train/val both point to images/)
 """
 
@@ -44,6 +43,9 @@ def parse_args():
     return p.parse_args()
 
 def yolo_bbox(xmin, ymin, xmax, ymax, w, h):
+    '''
+    (x_min, y_min, x_max, y_max) -> (x_center, y_center, width, height)
+    '''
     xmin = max(0, min(xmin, w - 1))
     xmax = max(0, min(xmax, w - 1))
     ymin = max(0, min(ymin, h - 1))
@@ -55,6 +57,9 @@ def yolo_bbox(xmin, ymin, xmax, ymax, w, h):
     return cx / w, cy / h, bw / w, bh / h
 
 def label_from_instance(inst, mode="class"):
+    '''
+    Getting label for yolo data.yaml, based on "mode"
+    '''
     if mode == "class":
         return inst.get("class")
     if mode == "subclass":
@@ -80,6 +85,10 @@ def ensure_dirs(out_root: Path):
     (out_root / "labels").mkdir(parents=True, exist_ok=True)
 
 def resolve_image_path(scene_dir: Path, fname: str | None, exts):
+    '''
+    1. Looking directly by path 
+    2. Running through all alowed extensions
+    '''
     if fname:
         p = (scene_dir / fname)
         if p.exists():
@@ -100,22 +109,21 @@ def write_data_yaml(out_root: Path, class_list: list[str], yaml_name: str):
     """
     Write a minimal Ultralytics YAML with no split: both train and val point to 'images/'.
     """
-    # Use relative paths for portability; users can also set 'path:' to out_root.
     content_lines = [
         f"path: {out_root.as_posix()}",
-        "train: images",              # no split -> point both to same folder
+        "train: images",
         "val: images",
-        f"nc: {len(class_list)}",
         "names:"
     ]
-    # YAML list of names
-    for name in class_list:
-        # Quote names to be safe w/ slashes or special chars
-        content_lines.append(f"  - \"{name}\"")
+    
+    for cls_num in range(len(class_list)):
+        content_lines.append(f"  {cls_num}: {class_list[cls_num]}")
     (out_root / yaml_name).write_text("\n".join(content_lines) + "\n", encoding="utf-8")
 
 def clean_output(out_root: Path, yaml_name: str):
-    # only remove known outputs inside out_root
+    '''
+    Cleaning input and output dirs
+    '''
     for sub in ["images", "labels"]:
         d = out_root / sub
         if d.exists() and d.is_dir():
@@ -139,6 +147,7 @@ def main():
     next_cid = 0
     stats = {"images": 0, "instances": 0, "skipped_instances": 0, "scenes": 0}
 
+    # iterating through each scene_insatnces.json
     for json_path in find_scene_dirs(in_root):
         scene_dir = json_path.parent
         stats["scenes"] += 1
@@ -152,7 +161,7 @@ def main():
         images = data.get("images", [])
         instances = data.get("instances", [])
 
-        # Build image map: id -> meta
+        # map - images:meta
         img_map = {}
         for im in images:
             iid = im.get("id")
@@ -161,7 +170,7 @@ def main():
             height = im.get("height")
             img_map[iid] = {"file_name": file_name, "width": width, "height": height}
 
-        # Prepare per-image bucket of instances
+        # map - image_id:list_of_instances
         per_image = {iid: [] for iid in img_map.keys()}
         for inst in instances:
             iid = inst.get("image_id")
@@ -170,7 +179,11 @@ def main():
                 continue
             per_image[iid].append(inst)
 
-        # Process each image: copy + write labels
+        # for every image:
+        # 1. find by path
+        # 2. create new name
+        # 3. copy it to output
+        # 4. create txt file 
         for iid, meta in img_map.items():
             fname = meta.get("file_name")
             w = meta.get("width")
@@ -182,18 +195,18 @@ def main():
                 if args.strict: raise FileNotFoundError(msg)
                 print(msg); continue
 
-            # target paths
             new_name = f"{scene_dir.name}_{src_img.name}"
             out_img = out_root / "images" / new_name
             out_lbl = out_root / "labels" / (Path(new_name).stem + ".txt")
 
-            # copy image
             if not out_img.exists():
                 shutil.copy2(src_img, out_img)
 
-            # write label file
+            # getting data for txt file
+            # (cls_id, ...yolo_bbox)
             lines = []
             for inst in per_image[iid]:
+                # getting label
                 lab = label_from_instance(inst, args.label_field)
                 if lab is None:
                     stats["skipped_instances"] += 1
@@ -202,7 +215,8 @@ def main():
                     classes[lab] = next_cid
                     next_cid += 1
                 cid = classes[lab]
-
+                
+                # getting bbox
                 bbox = inst.get("bbox")
                 if not bbox or len(bbox) != 4:
                     stats["skipped_instances"] += 1
@@ -230,10 +244,12 @@ def main():
             stats["images"] += 1
             stats["instances"] += len(lines)
 
+
     inv = [None] * len(classes)
     for k, v in classes.items():
         inv[v] = k
 
+    # here yaml file gets written 
     write_data_yaml(out_root, inv, args.yaml_name)
 
     print(f"[DONE] Scenes: {stats['scenes']}, Images: {stats['images']}, "
